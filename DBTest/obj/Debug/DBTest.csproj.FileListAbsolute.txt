@@ -1,0 +1,7 @@
+E:\C#\workspace\Education\DBTest\DBTest\bin\Debug\DBTest.exe.config
+E:\C#\workspace\Education\DBTest\DBTest\bin\Debug\DBTest.exe
+E:\C#\workspace\Education\DBTest\DBTest\bin\Debug\DBTest.pdb
+E:\C#\workspace\Education\DBTest\DBTest\obj\Debug\DBTest.csproj.CoreCompileInputs.cache
+E:\C#\workspace\Education\DBTest\DBTest\obj\Debug\DBTest.exe
+E:\C#\workspace\Education\DBTest\DBTest\obj\Debug\DBTest.pdb
+E:\C#\workspace\Education\DBTest\DBTest\obj\Debug\DBTest.csprojResolveAssemblyReference.cache
